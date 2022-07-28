@@ -64,10 +64,11 @@ Right now, this repository contains the following tasks and workflows:
 </table>
 
 ## Prerequisites
+You will need a Cisco ThousandEyes account.
 
 
 ## Claimed Targets
-
+To enable the tasks, you will need to claim an "HTTP Endpoint" Target for ThousandEyes in Intersight with your personal credentials.
 
 
 ## Notes
