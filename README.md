@@ -73,4 +73,4 @@ To enable the tasks, you will need to claim an "HTTP Endpoint" Target for Thousa
 
 
 ## Notes
-
+When using the tasks and workflows, use your claimed target for the "ThousandEyes Account" input.
