@@ -69,6 +69,8 @@ You will need a Cisco ThousandEyes account.
 
 ## Claimed Targets
 To enable the tasks, you will need to claim an "HTTP Endpoint" Target for ThousandEyes in Intersight with your personal credentials.
+![Target Claim](./screenshots/target_claim.png) 
 
 
 ## Notes
+
