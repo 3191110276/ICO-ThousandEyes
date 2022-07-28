@@ -23,7 +23,7 @@ Right now, this repository contains the following tasks and workflows:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_thousandeyes/tasks/CreateTest_Web-HTTPServer.json">Link</a></td>
+    <td><a href="./tasks/CreateTest_Web-HTTPServer.json">Link</a></td>
   </tr>
   
   <!-- Test: Web - Page Load -->
@@ -32,7 +32,7 @@ Right now, this repository contains the following tasks and workflows:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_thousandeyes/tasks/CreateTest_Web-PageLoad.json">Link</a></td>
+    <td><a href="./tasks/CreateTest_Web-PageLoad.json">Link</a></td>
   </tr>
   
   <!-- Any Test -->
@@ -41,7 +41,7 @@ Right now, this repository contains the following tasks and workflows:
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_thousandeyes/tasks/DeleteTest.json">Link</a></td>
+    <td><a href="./tasks/DeleteTest.json">Link</a></td>
   </tr>
 </table>
 
@@ -59,7 +59,7 @@ Right now, this repository contains the following tasks and workflows:
     <td>Create a new ThousandEyes test</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_thousandeyes/workflows/CreateThousandEyesTest.json">Link</a></td>
+    <td><a href="./workflows/CreateThousandEyesTest.json">Link</a></td>
   </tr>
 </table>
 
